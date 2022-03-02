@@ -1,0 +1,15 @@
+Words
+
+this is a text file that contains words, 
+
+only words
+
+there are no numbers in this file 
+as numbers are not words
+
+except when the number is in the form of a word. 
+for example: one
+
+I may add additional words
+
+I will not add numbers
