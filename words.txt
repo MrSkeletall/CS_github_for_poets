@@ -18,4 +18,7 @@ new rules
 
 and this branch can have n u m b e r s 
 
-BEHOLD:  2
+BEHOLD: 2,
+and now the number 3
+
+this text is from a seprate branch, I intend to merge it into the main branch
